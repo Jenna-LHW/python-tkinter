@@ -12,7 +12,7 @@
 - Create a display area
 
 ### Code Progress
-[Calculator Code](/code/calculator-v1.py)
+[Calculator Code](projects/simple-calculator/code/calculator-v1.py)
 
 ### What I Learned
 - How to use the grid system
