@@ -9,7 +9,7 @@
 - [Text Widget](#text-widget)
 - [Frame Widget](#frame-widget)
 - [Widget Styling and Configuration](#widget-styling-and-configuration)
-- [Practical Examples](#practical-examples)
+- [Practical Examples](#practical-example)
 
 ---
 
