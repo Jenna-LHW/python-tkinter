@@ -161,7 +161,7 @@ root.mainloop()
 - Runs continously until the window is closed
 
 **Important Rules**
-- Must the ***last line** in your program
+- Must the **last line** in your program
 - Only call it once per application
 - Everything else must be set up before calling `mainloop()`
 
