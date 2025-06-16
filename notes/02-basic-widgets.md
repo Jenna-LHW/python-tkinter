@@ -199,6 +199,8 @@ Button(root,text="Decrement (-)", command=decrement, bg="lightcoral", width=15).
 Button(root,text="Reset", command=reset, bg="lightblue", width=15).pack(pady=5)
 
 root.mainloop()
+
+### Button States and Properties
 ```python
 from tkinter import *
 
