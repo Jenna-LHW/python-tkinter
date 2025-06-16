@@ -70,8 +70,8 @@ button=tk.button(root,text="Click!")
 - Requires ```tk.``` prefix for everything (*More typing*)  
 
 ### Recommendation
-- **Learning:/Small Projects** Use method 1
-- **Large projects:**
+- **Learning/Small Projects:** Use method 1  
+- **Large projects:** Use method 2
 
 > **In this tutorial, we will be using Method 1**
 
