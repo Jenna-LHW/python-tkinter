@@ -35,10 +35,10 @@ button_clear.grid(row=1,column=0)
 ```  
 ![Solution-1](/screenshoots/Solution-1.png)  
 
-- Why it happened: The gaps between the buttons were caused by the *padx=10, pady=10* parameters in the grid condfiguration. These parameters add 10 pixels of padding around each button, which I misuderstood for width and height. I thought these specifies the width and heigth of the buttons
+- Why it happened: The gaps between the buttons were caused by the 'padx=10, pady=10* parameters in the grid condfiguration. These parameters add 10 pixels of padding around each button, which I misuderstood for width and height. I thought these specifies the width and heigth of the buttons
 
 ### Thoughts & Reflections
-Read **well** documentations. Don't just assume things!
+Always read documentation **carefully** - don't just assume how things work! This mistake taught me the importance of understanding each parameter's actual purpose before implementing it. The confusion between padding and dimensions led me to redo my notes and organize them more systematically.
   
  
 
