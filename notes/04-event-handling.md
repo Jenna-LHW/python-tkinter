@@ -443,4 +443,4 @@ root.mainloop()
 ---
 
 **Navigation:**  
-[← Layout Managenment](03-layout-managment.md) 
+[← Layout Management](03-layout-management.md) 
