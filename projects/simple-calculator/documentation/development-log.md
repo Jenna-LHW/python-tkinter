@@ -117,8 +117,8 @@ While working with Tkinter, I realized how important it is to apply what we have
 
 Another takeaway is that in coding, there are usually multiple ways to solve a problem. Sometimes we take longer route (like I did first) and then later discover a simpler, more efficient solution.  That's part of the learning process and what matters most is the understanding and reaching the solution.
 
-## Day3: 22 June 2025
-**Time Spent:** 
+## Day 3: 22 June 2025
+**Time Spent:** 30 Minutes  
 **Phase:** Calculator Logic
 
 ### What I Worked On Today
@@ -133,7 +133,7 @@ Another takeaway is that in coding, there are usually multiple ways to solve a p
 
 ### Problems I Encountered
 1. Problem: Logic behind equal sign button
-- Descrition: I struggled with figuring out how to process the entered expression, especially splitting it correctly and handling the operators.
+- Description: I struggled with figuring out how to process the entered expression, especially splitting it correctly and handling the operators.
   
 ### Thoughts & Reflections
 It feel rewarding to see the progress I have made with the calculator sp far. Next, I will focus on thorough testing and improving the visual to make the app more user-friendly and polished. 
