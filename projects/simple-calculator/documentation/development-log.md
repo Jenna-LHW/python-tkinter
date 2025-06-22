@@ -12,7 +12,7 @@
 - Create a display area
 
 ### Code Progress
-[Calculator Code](../code/calculator-v1.py)
+[Calculator Code version 1](../code/calculator-v1.py)
 
 ### What I Learned
 - How to use the grid system
@@ -116,3 +116,24 @@ def press_btn(num):
 While working with Tkinter, I realized how important it is to apply what we have learned before. For example, I used **slicing** in my code today; a concept that I first learned when working with list/string.   
 
 Another takeaway is that in coding, there are usually multiple ways to solve a problem. Sometimes we take longer route (like I did first) and then later discover a simpler, more efficient solution.  That's part of the learning process and what matters most is the understanding and reaching the solution.
+
+## Day3: 22 June 2025
+**Time Spent:** 
+**Phase:** Calculator Logic
+
+### What I Worked On Today
+- Implementing arithmetic operation
+
+### Code Progress
+[Calculator Code Version 2](../code/calculator-v2.py)
+
+### What I Learned
+- How to implement operator-based expression 
+- Managing user input as string and converting them for calculation
+
+### Problems I Encountered
+1. Problem: Logic behind equal sign button
+- Descrition: I struggled with figuring out how to process the entered expression, especially splitting it correctly and handling the operators.
+  
+### Thoughts & Reflections
+It feel rewarding to see the progress I have made with the calculator sp far. Next, I will focus on thorough testing and improving the visual to make the app more user-friendly and polished. 
