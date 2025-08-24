@@ -146,6 +146,4 @@ It feel rewarding to see the progress I have made with the calculator sp far. Ne
 - Some small errors when performing calculations( It was not allowing the second "dot operation" example 7.1 + 9.3, in the 9.3)
 
 ### Code Progress
-[Calculator Code Version 2](../code/calculator-v2.1.py)
-
-
+[Calculator Code Version 2.1](../code/calculator-v2.1.py)
