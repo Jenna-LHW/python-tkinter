@@ -137,3 +137,15 @@ Another takeaway is that in coding, there are usually multiple ways to solve a p
   
 ### Thoughts & Reflections
 It feel rewarding to see the progress I have made with the calculator sp far. Next, I will focus on thorough testing and improving the visual to make the app more user-friendly and polished. 
+
+## Day 5: 24 August 2025
+**Time Spent:** 30 Minutes  
+**Phase:** Calculator Logic
+
+### What I Worked On Today
+- Some small errors when performing calculations( It was not allowing the second "dot operation" example 7.1 + 9.3, in the 9.3)
+
+### Code Progress
+[Calculator Code Version 2](../code/calculator-v2.1.py)
+
+
